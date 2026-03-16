@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kaydaryu.github.io/AcademyHobbyBlog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kaydaryu.github.io/AcademyHobbyBlog/</loc>
+</url>
+<url>
+<loc>https://kaydaryu.github.io/AcademyHobbyBlog/hobby-pictures/</loc>
+<lastmod>2026-03-13T15:36:42-04:00</lastmod>
+<image:image>
+<image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/2/gallery/PXL_20260305_004655785-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/2/gallery/PXL_20260305_004020096-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/2/gallery/PXL_20260305_004701017-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/2/gallery/PXL_20260305_004708819-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/2/gallery/PXL_20260313_192533459-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kaydaryu.github.io/AcademyHobbyBlog/welcome-to-the-hobby-shop/</loc>
+<lastmod>2026-03-13T15:39:11-04:00</lastmod>
+<image:image>
+<image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/1/PXL_20260313_192533459.jpg</image:loc>
+<image:title><![CDATA[A Gundam pointing you in the right direction.]]></image:title>
+</image:image>
+</url>
+</urlset>
