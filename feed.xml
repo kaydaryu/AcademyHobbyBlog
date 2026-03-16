@@ -3,10 +3,45 @@
     <title>Alec&#x27;s Hobby Shop</title>
     <link href="https://kaydaryu.github.io/AcademyHobbyBlog/feed.xml" rel="self" />
     <link href="https://kaydaryu.github.io/AcademyHobbyBlog" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-03-16T16:05:07-04:00</updated>
     <author>
         <name>Event Manager Alec K.</name>
     </author>
     <id>https://kaydaryu.github.io/AcademyHobbyBlog</id>
 
+    <entry>
+        <title>About Me!</title>
+        <author>
+            <name>Event Manager Alec K.</name>
+        </author>
+        <link href="https://kaydaryu.github.io/AcademyHobbyBlog/about-me/"/>
+        <id>https://kaydaryu.github.io/AcademyHobbyBlog/about-me/</id>
+
+        <updated>2026-03-16T16:05:07-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hi, I'm Alec - I'm a jack-of-all-trades enterprising tech, shoulder to cry on, and guy who generally tries to take most things apart... and sometimes put them back together. This blog is (mostly) a space where I can keep a public record of all the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi, I'm Alec - I'm a jack-of-all-trades enterprising tech, shoulder to cry on, and guy who generally tries to take most things apart... and sometimes put them back together. <br><br>This blog is (mostly) a space where I can keep a public record of all the hobbies I create, all the people I help, and any fun tidbits I run into in my daily life. </p>
+<figure class="post__image"><br><img loading="lazy"  src="file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/PXL_20260313_192533459.jpg" alt="A Gundam pointing you in the right direction." width="370" height="278" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-xs.jpg 640w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-sm.jpg 768w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-md.jpg 1024w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-lg.jpg 1366w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-xl.jpg 1600w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-2xl.jpg 1920w"></figure>      <span style="text-decoration: underline; color: #3598db;">Click here for more cool pics!</span></p>
+<p>You'll also be able to keep up with this blog by saving it in your browser bookmarks.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Event Manager Alec K.</name>
+        </author>
+        <link href="https://kaydaryu.github.io/AcademyHobbyBlog/test-post/"/>
+        <id>https://kaydaryu.github.io/AcademyHobbyBlog/test-post/</id>
+
+        <updated>2026-03-16T16:04:33-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

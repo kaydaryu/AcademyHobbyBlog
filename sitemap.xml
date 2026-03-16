@@ -5,6 +5,10 @@
 <loc>https://kaydaryu.github.io/AcademyHobbyBlog/</loc>
 </url>
 <url>
+<loc>https://kaydaryu.github.io/AcademyHobbyBlog/about-me/</loc>
+<lastmod>2026-03-16T16:05:07-04:00</lastmod>
+</url>
+<url>
 <loc>https://kaydaryu.github.io/AcademyHobbyBlog/hobby-pictures/</loc>
 <lastmod>2026-03-13T15:36:42-04:00</lastmod>
 <image:image>
@@ -29,8 +33,12 @@
 </image:image>
 </url>
 <url>
+<loc>https://kaydaryu.github.io/AcademyHobbyBlog/test-post/</loc>
+<lastmod>2026-03-16T16:04:33-04:00</lastmod>
+</url>
+<url>
 <loc>https://kaydaryu.github.io/AcademyHobbyBlog/welcome-to-the-hobby-shop/</loc>
-<lastmod>2026-03-13T15:39:11-04:00</lastmod>
+<lastmod>2026-03-16T16:04:53-04:00</lastmod>
 <image:image>
 <image:loc>https://kaydaryu.github.io/AcademyHobbyBlog/media/posts/1/PXL_20260313_192533459.jpg</image:loc>
 <image:title><![CDATA[A Gundam pointing you in the right direction.]]></image:title>

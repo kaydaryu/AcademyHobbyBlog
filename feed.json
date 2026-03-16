@@ -9,5 +9,31 @@
         "name": "Event Manager Alec K."
     },
     "items": [
+        {
+            "id": "https://kaydaryu.github.io/AcademyHobbyBlog/about-me/",
+            "url": "https://kaydaryu.github.io/AcademyHobbyBlog/about-me/",
+            "title": "About Me!",
+            "summary": "Hi, I'm Alec - I'm a jack-of-all-trades enterprising tech, shoulder to cry on, and guy who generally tries to take most things apart... and sometimes put them back together. This blog is (mostly) a space where I can keep a public record of all the&hellip;",
+            "content_html": "<p>Hi, I'm Alec - I'm a jack-of-all-trades enterprising tech, shoulder to cry on, and guy who generally tries to take most things apart... and sometimes put them back together. <br><br>This blog is (mostly) a space where I can keep a public record of all the hobbies I create, all the people I help, and any fun tidbits I run into in my daily life. </p>\n<figure class=\"post__image\"><br><img loading=\"lazy\"  src=\"file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/PXL_20260313_192533459.jpg\" alt=\"A Gundam pointing you in the right direction.\" width=\"370\" height=\"278\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-xs.jpg 640w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-sm.jpg 768w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-md.jpg 1024w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-lg.jpg 1366w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-xl.jpg 1600w ,file:///C:/Users/aleck/Documents/Publii/sites/alecs-hobby-shop/input/media/posts/1/responsive/PXL_20260313_192533459-2xl.jpg 1920w\"></figure>      <span style=\"text-decoration: underline; color: #3598db;\">Click here for more cool pics!</span></p>\n<p>You'll also be able to keep up with this blog by saving it in your browser bookmarks.</p>\n<p> </p>",
+            "author": {
+                "name": "Event Manager Alec K."
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-16T16:05:07-04:00",
+            "date_modified": "2026-03-16T16:05:07-04:00"
+        },
+        {
+            "id": "https://kaydaryu.github.io/AcademyHobbyBlog/test-post/",
+            "url": "https://kaydaryu.github.io/AcademyHobbyBlog/test-post/",
+            "title": "Test Post",
+            "author": {
+                "name": "Event Manager Alec K."
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-16T16:04:33-04:00",
+            "date_modified": "2026-03-16T16:04:33-04:00"
+        }
     ]
 }
